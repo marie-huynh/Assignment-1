@@ -1,7 +1,7 @@
 # CSE306
 
 
-In this assignment, we implemented a raytracer from scratch with the following features : 
+-- In this assignment, we implemented a raytracer from scratch with the following features : 
 - Diffuse and mirror surfaces (Lab 1 / pages 17--25 of the lecture notes)
 - Direct lighting and shadows, for point light sources (Lab 1  / pages 13-19)
 - Indirect lighting for point light sources (Lab 2 / pages 25--31) without Russian roulette 
@@ -11,5 +11,5 @@ In this assignment, we implemented a raytracer from scratch with the following f
 
 The code is located in raytracer.cpp and can be run with the following command : 
 g++ raytracer.cpp -O3
-time ./a.out
+time ./a.out 
 
