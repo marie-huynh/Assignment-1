@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "random": "cpp",
+        "memory": "cpp",
+        "utility": "cpp",
+        "vector": "cpp"
+    }
+}
